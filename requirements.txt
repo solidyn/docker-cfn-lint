@@ -1,0 +1,4 @@
+# this file is not actually used in the build, but here to allow external tools to notify us
+# when new version of the python library are published to pypi
+
+cfn-lint
